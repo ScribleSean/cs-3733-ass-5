@@ -56,7 +56,6 @@ export class Separated {
 
 export class Context {
     private _taxStatus: TaxStatusOO;
-
     constructor(taxStatus: TaxStatusOO) {
         this._taxStatus = taxStatus;
     }
