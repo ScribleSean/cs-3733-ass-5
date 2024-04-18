@@ -33,7 +33,7 @@ function App() {
     return (
         <>
             <h2>Tax Strategy Pattern - Object Oriented</h2>
-            <b>For an income of ${}, the tax is</b>
+            <b>For an income of ${income}, the tax is</b>
             <br/><b>${singleTaxOO}</b> for a <b>single</b> person
             <br/><b>${marriedTaxOO}</b> for a <b>married</b> couple
             <br/><b>${separatedTaxOO}</b> for a <b>married couple filing separately</b>
