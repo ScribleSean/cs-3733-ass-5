@@ -16,9 +16,11 @@ function App() {
     const singleTaxOO: number = taxStatusSelection.calculateTax(income);
 
     // Use the setter to change the TaxStatus class to Married and calculate the tax
+    taxStatusSelection.taxStatus = married;
     const marriedTaxOO: number = taxStatusSelection.calculateTax(income)
 
     // Use the setter to change the TaxStatus class to Separated and calculate the tax
+    taxStatusSelection.taxStatus = separated;
     const separatedTaxOO: number = taxStatusSelection.calculateTax(income);
 
     // Functional programming code.
