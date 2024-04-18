@@ -39,7 +39,7 @@ function App() {
             <br/><b>${separatedTaxOO}</b> for a <b>married couple filing separately</b>
 
             <h2>Tax Strategy Pattern - Functional Programming</h2>
-            <b>For an income of ${}, the tax is</b>
+            <b>For an income of ${income}, the tax is</b>
             <br/><b>${singleTaxFP}</b> for a <b>single</b> person
             <br/><b>${marriedTaxFP}</b> for a <b>married</b> couple
             <br/><b>${separatedTaxFP}</b> for a <b>married couple filing separately</b>
