@@ -1,3 +1,5 @@
+> **Coursework archive:** The organized copy is now in [ScribleSean/wpi](https://github.com/ScribleSean/wpi/tree/main/courses/cs3733/assignments/a5). This repository is retained for its original history and attribution. The consolidated copy omits local configuration and generated files; see its import manifest for details.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
